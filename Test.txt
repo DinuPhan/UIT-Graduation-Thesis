@@ -3,6 +3,7 @@ This is my first test on Github version control system.
 One
 Two
 Three
+Four
 Five
 
 Did you miss any number, dear?
