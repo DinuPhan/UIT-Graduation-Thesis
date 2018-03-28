@@ -1,4 +1,4 @@
-This is my first test on Github version control system.
+This is my first test on Github CUTE version control system.
 
 One
 Two
@@ -8,3 +8,5 @@ Five
 
 Did you miss any number, dear?
 Yup, I've added number 4 already
+
+CUTE CUTE CUTE CUTE
